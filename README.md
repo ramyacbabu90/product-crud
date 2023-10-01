@@ -11,6 +11,7 @@ This is a Simple laravel application for CRUD operation of products.
 - Run composer update
 - Run php artisan migrate
 - Run php artisan db:seed (This will insert 2 dummy users to users table and 5 random categories to category table)
+- Run the project using php artisan serve.
 - Login as admin, email : admin@example.com, password : 12345678
 - When login as admin, the dashboard will allow you to go to list products, add products options. And then admin can view, edit, delete the products.
 - Login as user , email : test@example.com, password : 12345678
